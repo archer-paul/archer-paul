@@ -8,14 +8,14 @@ Second-year engineering student at **Télécom Paris** (Institut Polytechnique d
 ## 🚀 What I'm Working On
 * **VibeMatch Startup**: Co-founding an AI-powered creator-sponsor matching platform, currently pitching to institutional investors including Qatari funds
 * **Advanced Trading Systems**: Built a hybrid algorithmic trading bot combining traditional models (XGBoost/Random Forest) with Transformer architecture and **multi-source NLP sentiment analysis**, achieving 18% annual returns
-* **Healthcare AI**: Developed predictive models for cancer treatment analysis at AP-HP hospital + **Top 10** finish at Google DeepMind Healthcare Hackathon
+* **Healthcare AI**: Developed predictive models for cancer treatment analysis at AP-HP hospital + **Top 10** finish at [Google DeepMind Healthcare Hackathon](https://blog.google/technology/health/google-france-ai-healthcare-hackathon/)
 * **Quantum Computing**: Explored quantum optimization algorithms for telecom networks at Sopra Steria
 * **Research**: Medical funding analysis using OCR + LLM + statistical modeling
 
 ## Experience Highlights
 * **Data Science Intern** @ Hôpital Henri Mondor (AP-HP) - Predictive modeling on healthcare data
 * **Quantum Computing Intern** @ Sopra Steria - Cold atoms-based quantum algorithms
-* **Former General Secretary** @ Forum Télécom Paris - Managed €300k budget for largest student career fair (featured in Forbes)
+* **Former General Secretary** @ Forum Télécom Paris - Managed €300k budget for largest student career fair (featured in [Forbes](https://www.forbes.fr/mediasfrance/forum-telecom-paris/))
 
 ## 🛠️ Tech Stack
 
