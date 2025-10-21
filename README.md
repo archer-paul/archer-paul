@@ -1,71 +1,78 @@
 # Hi there! 👋 I'm Paul Archer
 
 ## About Me
-Second-year engineering student at **Télécom Paris** (Institut Polytechnique de Paris), specializing in **Stochastic Modeling & Scientific Computing** and **Data Science**. Starting my **MSc Mathematics & Finance** at **Imperial College London** in September 2025.
+Currently pursuing an **MSc in Mathematics & Finance** at **Imperial College London**, building on my engineering background from **Télécom Paris** in Stochastic Modeling & Data Science. Focused on quantitative finance, systematic trading, and derivatives pricing.
 
-🌐 **Portfolio**: [paul-archer.vercel.app](https://paul-archer.vercel.app/)
+**Portfolio**: [paul-archer.vercel.app](https://paul-archer.vercel.app/)
 
 ## 🚀 What I'm Working On
-* **VibeMatch Startup**: Co-founding an AI-powered creator-sponsor matching platform, currently pitching to institutional investors including Qatari funds
-* **Advanced Trading Systems**: Built a hybrid algorithmic trading bot combining traditional models (XGBoost/Random Forest) with Transformer architecture and **multi-source NLP sentiment analysis**, achieving 18% annual returns
-* **Healthcare AI**: Developed predictive models for cancer treatment analysis at AP-HP hospital + **Top 10** finish at [Google DeepMind Healthcare Hackathon](https://blog.google/technology/health/google-france-ai-healthcare-hackathon/)
-* **Quantum Computing**: Explored quantum optimization algorithms for telecom networks at Sopra Steria
-* **Research**: Medical funding analysis using OCR + LLM + statistical modeling
+* **Alpha Development**: Developing profitable trading signals on WorldQuant BRAIN platform (15+ alphas, combined Sharpe 2.1)
+* **[Multi-Asset Systematic Trading Framework](https://github.com/archer-paul/multi-asset-systematic-trading)**: Built ensemble ML system combining XGBoost, LSTM, and Transformers on 250+ features, achieving 5.3% CAGR and Sharpe 1.34
+* **[Quantitative Derivatives Engine](https://github.com/archer-paul/quantitative-derivatives-engine)**: Implemented Black-Scholes, Heston, and Merton jump-diffusion models for exotic options with sub-200µs pricing
+* **[VibeMatch](https://vibematch.tech/)**: Co-founded AI-powered creator-sponsor matching platform using NLP for compatibility scoring
+* **Healthcare AI Research**: Developed time series models and survival analysis at Henri Mondor Hospital (87% accuracy on 10,000+ patients); **Top 10 finish** at [Google DeepMind Healthcare Hackathon](https://blog.google/technology/health/google-france-ai-healthcare-hackathon/) with [GEMCARE](https://github.com/archer-paul/gemcare-smart-medical-record) medical records platform
 
 ## Experience Highlights
-* **Data Science Intern** @ Hôpital Henri Mondor (AP-HP) - Predictive modeling on healthcare data
-* **Quantum Computing Intern** @ Sopra Steria - Cold atoms-based quantum algorithms
-* **Former General Secretary** @ Forum Télécom Paris - Managed €300k budget for largest student career fair (featured in [Forbes](https://www.forbes.fr/mediasfrance/forum-telecom-paris/))
+* **Alpha Contributor** @ WorldQuant BRAIN Platform - Systematic signal research
+* **Research Intern** @ Henri Mondor Hospital (AP-HP) - Time series forecasting and survival analysis
+* **Co-Founder & Technical Lead** @ VibeMatch - AI marketplace platform
+* **Quantum Computing Intern** @ Sopra Steria - Quantum optimization on Pasqal processors
+* **General Secretary** @ Forum Télécom Paris - €300K budget management ([Forbes feature](https://www.forbes.fr/mediasfrance/forum-telecom-paris/))
 
 ## 🛠️ Tech Stack
 
-**Programming Languages:**
-* Python ⭐️⭐️⭐️⭐️⭐️
+**Programming & Frameworks:**
+* Python (NumPy, Pandas, Scikit-Learn, PyTorch, QuantLib) ⭐️⭐️⭐️⭐️⭐️
 * C++ ⭐️⭐️⭐️⭐️
 * R ⭐️⭐️⭐️⭐️
-* MATLAB ⭐️⭐️⭐️
-* TypeScript ⭐️⭐️⭐️
-* OCaml ⭐️⭐️
-* Java ⭐️⭐️
+* SQL, Excel VBA ⭐️⭐️⭐️
+* Java, TypeScript ⭐️⭐️⭐️
 
-**Finance & ML Libraries:**
-* **Quantitative Finance**: QuantLib, NumPy, SciPy, Pandas
-* **Machine Learning**: PyTorch, TensorFlow, scikit-learn, XGBoost
-* **Quantum Computing**: Qiskit, Pulser (Pasqal)
-* **NLP**: NLTK, Transformers, spaCy, VADER
+**Quantitative Methods:**
+* **Stochastic Calculus**: Itô's Lemma, Black-Scholes, Heston, Monte Carlo
+* **Time Series**: ARIMA, GARCH, VAR, Kalman filtering, cointegration
+* **Risk Management**: VaR, Expected Shortfall, Greeks calculation
+* **Machine Learning**: XGBoost, LSTM, Transformers, NLP sentiment analysis
+* **Portfolio Theory**: Mean-variance optimization, Kelly criterion, regime detection
 
 ## Research Interests
-* **Quantitative Finance**: Derivatives pricing, portfolio optimization, algorithmic trading
-* **AI in Healthcare**: Predictive modeling, NLP for medical data
-* **Quantum Computing**: Optimization algorithms, financial applications
-* **Time Series Analysis**: Forecasting models, statistical pattern recognition
-* **Entrepreneurship**: AI-powered platforms, fintech innovation
+* Quantitative Finance & Derivatives Pricing
+* Systematic Trading & Statistical Arbitrage
+* Machine Learning for Alpha Generation
+* Stochastic Volatility & Jump-Diffusion Models
+* Market Microstructure & High-Frequency Trading
 
 ## Featured Projects
 
-**[Trading Bot](https://github.com/archer-paul/ML-trading-bot)** - Hybrid algorithmic trading system combining traditional ML models with Transformer architecture and real-time sentiment analysis from multiple data sources
+**[Multi-Asset Systematic Trading Framework](https://github.com/archer-paul/multi-asset-systematic-trading)** - Ensemble ML strategy with rigorous walk-forward validation
 
-**[VibeMatch](https://vibematch.tech/)** - AI-powered startup matching creators with sponsors (currently under development)
+**[Quantitative Derivatives Engine](https://github.com/archer-paul/quantitative-derivatives-engine)** - Black-Scholes extensions with exotic options pricing
+
+**[VibeMatch](https://vibematch.tech/)** - AI-powered creator-sponsor matching platform
 
 **[GEMCARE](https://github.com/archer-paul/gemcare-smart-medical-record)** - AI medical records platform (Google DeepMind Hackathon Top 10)
 
-**[Research Funding Analyzer](https://github.com/archer-paul/research-funding-analyzer)** - OCR + LLM for medical research funding analysis
+**[Research Funding Analyzer](https://github.com/archer-paul/research-funding-analyzer)** - NLP + OCR for academic publication analysis
 
-**[Quantum Network Optimizer](https://github.com/archer-paul/quantum-network-optimizer)** - Quantum algorithms for telecom resource allocation
+**[Quantum Network Optimizer](https://github.com/archer-paul/quantum-network-optimizer)** - Quantum algorithms for network optimization
+
+## Competitions
+* **Optiver Ready Trader Go** - High-frequency trading algorithms
+* **QuantConnect Alpha Competition** - Systematic alpha generation
+* **Google DeepMind Healthcare Hackathon** - Top 10 finish
 
 ## Languages
-French (Native) | English (Fluent - TOEFL 106/120) | German (B2) | Spanish (A2)
+French (Native) | English (C2) | German (B2)
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 - **Email**: [paul.archer25@imperial.ac.uk](mailto:paul.archer25@imperial.ac.uk)
 - **LinkedIn**: [linkedin.com/in/p-archer](https://www.linkedin.com/in/p-archer/)
 - **Portfolio**: [paul-archer.vercel.app](https://paul-archer.vercel.app/)
 - **Location**: London, UK
 
 ---
-*"Bridging mathematics, AI, and finance to solve tomorrow's quantitative challenges"* 🚀
+*Applying mathematical rigor to quantitative finance challenges*
 
 <!---
 archer-paul/archer-paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
