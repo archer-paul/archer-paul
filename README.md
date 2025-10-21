@@ -6,11 +6,10 @@ Currently pursuing an **MSc in Mathematics & Finance** at **Imperial College Lon
 **Portfolio**: [paul-archer.vercel.app](https://paul-archer.vercel.app/)
 
 ## 🚀 What I'm Working On
-* **Alpha Development**: Developing profitable trading signals on WorldQuant BRAIN platform (15+ alphas, combined Sharpe 2.1)
 * **[Multi-Asset Systematic Trading Framework](https://github.com/archer-paul/multi-asset-systematic-trading)**: Built ensemble ML system combining XGBoost, LSTM, and Transformers on 250+ features, achieving 5.3% CAGR and Sharpe 1.34
 * **[Quantitative Derivatives Engine](https://github.com/archer-paul/quantitative-derivatives-engine)**: Implemented Black-Scholes, Heston, and Merton jump-diffusion models for exotic options with sub-200µs pricing
 * **[VibeMatch](https://vibematch.tech/)**: Co-founded AI-powered creator-sponsor matching platform using NLP for compatibility scoring
-* **Healthcare AI Research**: Developed time series models and survival analysis at Henri Mondor Hospital (87% accuracy on 10,000+ patients); **Top 10 finish** at [Google DeepMind Healthcare Hackathon](https://blog.google/technology/health/google-france-ai-healthcare-hackathon/) with [GEMCARE](https://github.com/archer-paul/gemcare-smart-medical-record) medical records platform
+* **Healthcare AI Research**: Engineered NLP + OCR pipeline extracting structured data from unstructured physician notes at Henri Mondor Hospital, and developed [research funding analyzer](https://github.com/archer-paul/research-funding-analyzer) for academic publications; **Top 10 finish** at [Google DeepMind Healthcare Hackathon](https://blog.google/technology/health/google-france-ai-healthcare-hackathon/) with [GEMCARE](https://github.com/archer-paul/gemcare-smart-medical-record) platform
 
 ## Experience Highlights
 * **Alpha Contributor** @ WorldQuant BRAIN Platform - Systematic signal research
